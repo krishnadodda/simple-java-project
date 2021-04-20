@@ -6,7 +6,7 @@
 	<display-name>Works with Heroku</display-name>
 
 	<servlet>
-		<servlet-name>WorksWithHerokuServlet</servlet-name>
+		<servlet-name>WorksWithHerokuServlets</servlet-name>
 		<servlet-class>works.buddy.samples.WorksWithHerokuServlet</servlet-class>
 	</servlet>
 
